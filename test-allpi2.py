@@ -1,3 +1,4 @@
 # This file is only to test pytest.
 def test_example():
-    assert 1 + 1 == 2
+    assert 7 + 5 == 12
+
