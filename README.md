@@ -33,5 +33,4 @@ You can also expand this to test input pins if needed.
 -LED + 330Ω resistor connected to a GPIO pin (e.g., pin 12, which is GPIO 18)
 ##
 
-### Pi-4, and Pi-5 will be released this afternoon.
 ### This repository was made with partial assistance from ChatGPT.
