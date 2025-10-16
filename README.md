@@ -13,3 +13,25 @@ If you would like to run a not so extreme Raspberry Pi CPU test, than check out 
 https://github.com/The3DP/PiCPU-Test
 
 ### About "Pi-3.py"
+
+Pi-3.py is a simple Raspberry Pi GPIO test script written in Python using the RPi.GPIO library. This script will:
+
+- Set up a GPIO pin (e.g., GPIO 18) as output.
+
+- Blink an LED connected to it 5 times.
+
+You can also expand this to test input pins if needed.
+
+✅ Requirements
+
+-Raspberry Pi with Raspbian (or Raspberry Pi OS)
+
+-Python 3
+
+-RPi.GPIO library (usually pre-installed)
+
+-LED + 330Ω resistor connected to a GPIO pin (e.g., pin 12, which is GPIO 18)
+##
+
+### Pi-4, and Pi-5 will be released this afternoon.
+### This was made with partial assistance from ChatGPT.
