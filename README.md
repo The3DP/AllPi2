@@ -1,7 +1,4 @@
 # AllPi2
-Right now, I am just making a template. 
-Please be patient. 
-More Pi-related codes coming soon!
 
 ### About "Pi-2.py"
 The file, "Pi2.py" burns all cores in the Raspberry Pi CPU.
